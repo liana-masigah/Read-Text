@@ -26,7 +26,7 @@ print(count_words())
 
 
 
-#count_words()
+#count_words()clear
     # [assignment] Add your code here
 
     #return {"as": 10, "would": 20}
